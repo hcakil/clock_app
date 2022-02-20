@@ -1,4 +1,4 @@
-# clock_app
+# Time is Priceless and this app can be use to track it.
 
 This is the Alarm Action enabled Clock Application.
 
@@ -14,6 +14,10 @@ This is the Alarm Action enabled Clock Application.
   1. Stopwatch Action
   2. Alarm Specification for each user entered
   3. And many more .. :smiley:
+  
+ ##  Downloadable apk file link to try on Device
+ 
+ [Download From Google Drive Link](https://drive.google.com/file/d/1Q7W6tCDzB1bSkeTt0QjDsCE1aij03hvL/view?usp=sharing)
   
   
 ##  Presentation in here
