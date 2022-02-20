@@ -1,16 +1,23 @@
 # clock_app
 
-A new Flutter project.
+This is the Alarm Action enabled Clock Application.
 
-## Getting Started
+> “Time is free, but it's priceless. You can't own it, but you can use it. You can't keep it, but you can spend it. Once you've lost it you can never get it back.” – Harvey Mackay
 
-This project is a starting point for a Flutter application.
+## Properties
+  1. Set Alarm with Sound
+  2. Delete Alarm 
+  3. Beautiful Design with Glazing Color Palette
+  4. Digital and Analog Clock Show
 
-A few resources to get you started if this is your first Flutter project:
+## Possible Future Develops
+  1. Stopwatch Action
+  2. Alarm Specification for each user entered
+  3. And many more .. :smiley:
+  
+  
+##  Presentation in here
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/48150826/154832668-b3dc2a3d-a872-4515-9821-871321ef5794.mp4
+
